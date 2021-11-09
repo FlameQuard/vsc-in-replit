@@ -4,7 +4,7 @@ Follow the steps given below
 
 1. Create a replit project in bash
 
-2. Copy the code given below to `.sh` file
+2. Copy the code given below to `main.sh` file
 
 ```sh
 if [[ ! -d code-server-3.12.0-linux-amd64 ]]
